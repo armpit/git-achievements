@@ -2,6 +2,7 @@
 <title>armpit's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Socialite (Level 2)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Librarian</title><description>Looked for change that introduce or remove a string with git log -S</description></item>
 <item><title>Apprentice Hunter (Level 1)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Homeowner</title><description>Set global email address using git config.</description></item>
