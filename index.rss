@@ -2,6 +2,7 @@
 <title>armpit's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Baptised</title><description>Set global user name using git config.</description></item>
 <item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Goldsmith (Level -inf)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Apprentice Historian (Level 1)</title><description>Investigate the commit log using git log.</description></item>
