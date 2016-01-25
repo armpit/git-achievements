@@ -2,6 +2,7 @@
 <title>armpit's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 <item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
 <item><title>Apprentice Fisherman (Level 1)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Apprentice Cleaning lady (Level 1)</title><description>Remove untracked files from the working tree with git clean</description></item>
